@@ -10,10 +10,10 @@
 ### 👨‍💻 About Me
 
 - 💻 I love solving real-world problems using **C++ & DSA**  
-- 🌐 Skilled in **Full-Stack Development**: React.js, Flutter  
+- 🌐 Skilled in **Full-Stack Development**: React.js, Flutter(Hands on experience)  
 - 📚 Strong foundation in **OOPs, DBMS, OS**  
 - 🔍 Focused on clean code, scalable systems, and modern design  
-- 🌱 Currently learning **AI/ML & Cloud Deployment**
+- 🌱 Currently learning **GenAI, AI/ML & Cloud Deployment**
 
 ---
 
