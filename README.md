@@ -67,7 +67,7 @@
 
 ### 🧠 Quick Highlights
 
-- 💡 **DSA & Problem Solving**: 300+ problems solved on LeetCode  
+- 💡 **DSA & Problem Solving**: 140+ problems solved on LeetCode  
 - 🛠️ **Tech Stack**: C++, React.js, Flutter, Firebase, MongoDB  
 - 📊 **Data & DB**: SQL, PostgreSQL, Firebase, MongoDB  
 - 🎨 **UI/UX**: Figma, Canva, Clean Design Principles  
