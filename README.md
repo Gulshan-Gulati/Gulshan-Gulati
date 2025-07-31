@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I love solving real-world problems using **Java/C++ & DSA**  
+- 💻 I love solving real-world problems using **C++/Java & DSA**  
 - 🌐 Skilled in **Full-Stack Development**: React.js, Flutter(Hands on experience)  
 - 📚 Strong foundation in **OOPs, DBMS, OS**  
 - 🔍 Focused on clean code, scalable systems, and modern design  
