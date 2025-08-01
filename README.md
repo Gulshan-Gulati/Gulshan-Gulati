@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gulshan Kumar</h1>
-<h3 align="center">🚀 C++ | DSA Enthusiast | Developer | Creative Problem Solver</h3>
+<h3 align="center">🚀 DSA Enthusiast | C++ Programmer | Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gulshan-gulati&label=Profile%20views&color=0e75b6&style=flat" alt="gulshan-gulati" />
@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I love solving real-world problems using **C++/Java & DSA**  
-- 🌐 Skilled in **Full-Stack Development**: React.js, Flutter(Hands on experience)  
-- 📚 Strong foundation in **OOPs, DBMS, OS**  
-- 🔍 Focused on clean code, scalable systems, and modern design  
-- 🌱 Currently learning **GenAI, AI/ML & Cloud Deployment**
+- 🔍 Passionate about solving complex problems using **C++, Java, Python, and DSA**
+- 🌐 Hands-on experience in **Full-Stack Development** using **React.js**, **Flutter**, and Firebase
+- 💡 Strong in **OOPs, DBMS, OS**, and currently exploring **AI/ML & Cloud Deployment**
+- 🧠 Focused on writing clean, scalable, and maintainable code
+- 🎯 Always up for new challenges & building impactful tech solutions
 
 ---
 
@@ -44,7 +44,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
@@ -67,14 +66,14 @@
 
 ### 🧠 Quick Highlights
 
-- 💡 **DSA & Problem Solving**: 140+ problems solved on LeetCode and many more on other platform  
-- 🛠️ **Tech Stack**: C++, Java, Flutter, Firebase, MongoDB  
-- 📊 **Data & DB**: SQL, PostgreSQL, Firebase, MongoDB  
-- 🎨 **UI/UX**: Figma, Canva, Clean Design Principles  
-- 🔍 **Exploring**: Cloud Deployment & DevOps
+- 💡 **DSA & Problem Solving**: 140+ questions solved on LeetCode & other platforms  
+- 🔧 **Core Expertise**: C++, Java, Python, Flutter, Firebase, MongoDB  
+- 🧩 **Database Management**: MySQL, PostgreSQL, Firebase  
+- 🎨 **Creative Design**: Figma, Canva, clean UI/UX  
+- 🌩️ **Exploring**: AI/ML, Cloud Deployment, DevOps basics
 
 ---
 
 ### ⚡ Fun Fact
 
-I'm as passionate about theatre and design as I am about clean code and debugging! 🎭💻
+I debug bugs like a detective and design interfaces like an artist 🎭💻  
